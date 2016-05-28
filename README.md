@@ -2,7 +2,7 @@
 
 Another User Agent detect library, but powerful.
 
-We will below features:
+We will provide below features:
 
 1. Up-To-Date UA library --- we will fetch the new user agent and make our UA library most up-to-date and most comprehensive.
 2. Config To Code --- most basic detect method are created by ua config, just add new config to support new UA detect.
